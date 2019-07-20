@@ -4,6 +4,6 @@
       <a href="https://khrystynastyslo.github.io/firstLesson/"> Preview 
    </li>
    <li> 
-      <a href="https://github.com/khrystynastyslo.github.io/firstLesson/pull/1/files"> PullRequest
+      <a href="https://github.com/khrystynaStyslo/firstLesson/pull/1"> PullRequest
    </li>
 </ul>
