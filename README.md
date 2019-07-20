@@ -1,9 +1,9 @@
 # firstLesson
 <ul>
    <li>
-      [Preview](https://khrystynastyslo.github.io/firstLesson/) 
+      <a href="https://khrystynastyslo.github.io/firstLesson/"> Preview 
    </li>
    <li> 
-      [PullRequest](https://github.com/khrystynastyslo.github.io/firstLesson/pull/1/files)
+      <a href="https://github.com/khrystynastyslo.github.io/firstLesson/pull/1/files"> PullRequest
    </li>
 </ul>
